@@ -1,0 +1,10 @@
+void main() {
+    var greetName = 'welcome, Alice!';
+    print(greetName);
+
+    dynamic value = 'Welcome, 25!';
+    print(value);
+
+}
+
+// It's throwing errors because when you change the variables based on the code's context, most of them end up causing errors.
